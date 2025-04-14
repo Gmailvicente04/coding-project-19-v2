@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Gallery from './components/Gallery';
+import Gallery from '../components/Gallery';
 import './styles/styles.css';
 
 function App() {
@@ -19,5 +19,6 @@ function App() {
       <Gallery tours={tours} setTours={setTours} removeTour={removeTour} />
     </div>
   );
-}
+} // task 1 Root Component
+
 
