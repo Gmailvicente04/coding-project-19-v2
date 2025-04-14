@@ -32,3 +32,6 @@ function TourCard({ id, name, info, price, image, onRemove }) {
 }
 
 export default TourCard;
+
+
+// task 3 (Single Tour Component)
