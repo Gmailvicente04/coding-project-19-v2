@@ -44,3 +44,5 @@ function Gallery({ tours, setTours, removeTour }) {
     </section>
   );
 }
+
+//task 2 tour list conmponent
